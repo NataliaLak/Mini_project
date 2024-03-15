@@ -1,1 +1,1 @@
-# Mini_project
+# Mini_project from Carpov courses
